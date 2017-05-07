@@ -10,6 +10,9 @@ Este repostiório contém todos os conteúdos e referências relativas ao worksh
 
 #### Recursos
 
+- [Sonic PI](http://sonic-pi.net/)
+- [PureData](https://puredata.info/)
+- [Reaper](http://www.reaper.fm/)
 - [TOPLAP](https://toplap.org/)
 - [algorave](https://algorave.com/)
 
